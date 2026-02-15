@@ -2,3 +2,6 @@ opencv-python
 ultralytics
 Pillow
 numpy
+customtkinter
+packaging
+lapx>=0.5.5
